@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(244, 221, 184);
+}
+a {
+  font-size: 20px;
+  font-family: "Montserrat Alternates", sans-serif;
+  text-decoration: none;
+  color: black;
+}
+li {
+  padding-top: 20px;
+  display: flex;
+}
+
+button {
+  background-color: aliceblue;
+  border-radius: 20%;
+  border: 4px solid brown;
+}
